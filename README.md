@@ -58,6 +58,7 @@ This app follows **Clean Architecture** principles:
 
 
 **Install dependencies**
+git clone git clone https://github.com/YOUR_USERNAME/flutter-recipe-app.git
 
 flutter pub get
 Run on Android/iOS
