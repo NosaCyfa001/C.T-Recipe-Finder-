@@ -58,13 +58,12 @@ This app follows **Clean Architecture** principles:
 
 
 **Install dependencies**
-git clone git clone https://github.com/YOUR_USERNAME/flutter-recipe-app.git
+git clone https://github.com/NosaCyfa001/C.T-Recipe-Finder-.git
 
 flutter pub get
-Run on Android/iOS
 
 flutter run
-Run on Web
+.Run on Web
 
 flutter config --enable-web
 flutter run -d chrome
